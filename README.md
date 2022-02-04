@@ -8,7 +8,7 @@
 
 ### Since then, I've learned significally about Frontend and Backend development, plus MYSQL and NOSQL database management/query.  
 
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt_cross23)](https://github.com/matt_cross23/github-readme-stats)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cross23)](https://github.com/matt_cross23/github-readme-stats)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
