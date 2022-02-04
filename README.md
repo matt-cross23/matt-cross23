@@ -6,7 +6,7 @@
 
 ### In August 2021, I decided to make a career change and enrolled in Penn's LPS Full Stack Bootcamp. 👨‍💻
 
-### Since then, I've learned significally about Front and Backend development, plus MYSQL and NOSQL database management/query.  
+### Since then, I've learned significally about Frontend and Backend development, plus MYSQL and NOSQL database management/query.  
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
