@@ -9,10 +9,10 @@
 #### Since then, I've learned significally about Frontend and Backend development, plus MYSQL and NOSQL database management/query.  
 
 #### Here are my Github Stats!
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api/matt-cross23&theme=radical&show_icons=true)](https://github.com/matt_cross23/github-readme-stats)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api/?username=matt-cross23&theme=radical&show_icons=true)](https://github.com/matt_cross23/github-readme-stats)
 
-#### Here are my repos!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/matt-cross23&repo=github-readme-stats)](https://github.com/matt-cross23/github-readme-stats)
+#### Here are my top languages!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-cross23)](https://github.com/matt-cross23/github-readme-stats)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
