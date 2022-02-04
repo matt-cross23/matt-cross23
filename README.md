@@ -11,7 +11,6 @@
 #### Here are my Github Stats!
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api/?username=matt-cross23&theme=radical&show_icons=true)](https://github.com/matt_cross23/github-readme-stats)
 
-#### Here are my top languages!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-cross23)](https://github.com/matt-cross23/github-readme-stats)
 
 - 👀 I’m interested in ...
