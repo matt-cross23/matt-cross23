@@ -28,9 +28,9 @@
 
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in server backend development and UI/UX design
+- 🌱 I’m currently learning Python and TypeScript
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me email: matthewcross1017@gmail.com 
 
 
