@@ -11,15 +11,17 @@
 #### Since then, I've learned significally about Frontend and Backend development, plus MYSQL and NOSQL database management/query.  
 
 #### Here are my Github Stats!
-<p align="center"
-   
+<p align="center">   
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api/?username=matt-cross23&theme=shades-of-purple&show_icons=true)](https://github.com/matt_cross23/github-readme-stats)
 
+ <p align="center">
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=E-Commerce-Backend)
-
+    
+ <p align="center">   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-cross23)](https://github.com/matt-cross23/github-readme-stats)
 
-![counter](https://enyvrulwi7s4ubg.m.pipedream.net)>
+<p align="center">
+![counter](https://enyvrulwi7s4ubg.m.pipedream.net)
  
 </p>
 
