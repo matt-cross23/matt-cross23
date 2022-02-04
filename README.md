@@ -11,7 +11,7 @@
 #### Here are my Github Stats!
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api/?username=matt-cross23&theme=shades-of-purple&show_icons=true)](https://github.com/matt_cross23/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=github-readme-stats)](https://github.com/matt-cross23/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=Tech-Blog)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-cross23)](https://github.com/matt-cross23/github-readme-stats)
 
