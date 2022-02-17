@@ -5,6 +5,10 @@
 ### [Follow Link for Resume](https://docs.google.com/document/d/e/2PACX-1vQy_QYPokd4li8-Y2TJTspxn39mjuchWxiBYLDCwhltT8AD6g9iCJijeRbXSSVlIGByxYfY1WZwdE8t/pub)
 
 #### Since graduation I've worked for the First Judicial District of Pennsylvania (Philadelphia County) as a legal clerk for the Office of Court Compliance 🏛️, helping people with outstanding court costs and fines get on a payment plan so they can recieve SNAP benefits. 
+
+*I was just certified for JNET acessibility, JNET is a collaborative effort of municipal, county, state, bordering states, and federal justice agencies that developed and provide an online, secure, integrated justice system that provides participating agencies with access to justice information within Pennsylvania*
+[jnet certification.pdf](https://github.com/matt-cross23/matt-cross23/files/8090457/jnet.overview.pdf)
+
 *I am also certified as a 200 level excel user by Microsoft:* 
 [Excel L200 1.12 attend cert_Part27.pdf](https://github.com/matt-cross23/matt-cross23/files/8004163/Excel.L200.1.12.attend.cert_Part27.pdf)
 
