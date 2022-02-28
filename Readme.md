@@ -66,7 +66,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=E-Commerce-Backend" />
 </a>
 <a href="https://github.com/matt-cross23/Tech-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=Tech-Blog" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=Team-Profile-Generator" />
 </a>
        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-cross23)](https://github.com/matt-cross23/github-readme-stats)
