@@ -69,8 +69,8 @@
 ##### Projects I've contributed to!
 
 [![Find Your Wine](https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=Find-Your-Wine&theme=dark)](https://github.com/matt-cross23/Find-Your-Wine)
-[![Profile Tracker](https://github-readme-stats.vercel.app/api/pin/?username=zaydnubani&repo=Penn-Collab-Project-1&theme=dark)](https://github.com/matt-cross23/Penn-Collab-Project-1)
-[![Artistify](https://github-readme-stats.vercel.app/api/pin/?username=mikepizzica&repo=artistify&theme=dark)](https://github.com/matt-cross23/artistify)
+[![Profile Tracker](https://github-readme-stats.vercel.app/api/pin/?username=zaydnubani&repo=Penn-Collab-Project-1&theme=dark)](https://github.com/zaydnubani/Penn-Collab-Project-1)
+[![Artistify](https://github-readme-stats.vercel.app/api/pin/?username=mikepizzica&repo=artistify&theme=dark)](https://github.com/mikepizzica/artistify)
 
 
 - 👀 I’m interested in server backend development and UI/UX design
