@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Matthew Cross!
 
-## I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, Economics (PPE) in May 2020. 🎓
+## I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, & Economics(PPE) in May 2020. 🎓
 
 ## I just graduated as a Full Stack Developer from Penn's LPS Full Stack Bootcamp Program! (Waiting for my certificate)⌛
 
