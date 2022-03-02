@@ -63,7 +63,7 @@
 
 #### Here are my Github Stats!
  
-[![[Matthew's GitHub stats](https://github-readme-stats.vercel.app/api/?username=matt-cross23&theme=shades-of-purple&show_icons=true)](https://github.com/matt_cross23/github-readme-stats)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cross23)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/matt-cross23/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=E-Commerce-Backend" />
