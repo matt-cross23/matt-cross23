@@ -38,11 +38,11 @@
  
 ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
 
- **-Code Editor**  
+ **-Text Editor**  
  
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 
-### [Follow Link for Resume](https://docs.google.com/document/d/e/2PACX-1vQy_QYPokd4li8-Y2TJTspxn39mjuchWxiBYLDCwhltT8AD6g9iCJijeRbXSSVlIGByxYfY1WZwdE8t/pub)
+
 
 #### Since graduation I've worked for the First Judicial District of Pennsylvania (Philadelphia County) as a legal clerk for the Office of Court Compliance 🏛️, helping people with outstanding court costs and fines get on a payment plan so they can recieve SNAP benefits. 
 
