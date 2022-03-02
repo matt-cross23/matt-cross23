@@ -4,7 +4,7 @@
 
 ## I just graduated as a Full Stack Developer from Penn's LPS Full Stack Bootcamp Program! (Waiting for my certificate)⌛
 
-### ☺ *Take a look at my resume! [Resume](https://docs.google.com/document/d/1HOzr1bBkC3nN_z0Mglpie7cdjutdz_zH22lqIPRAX7c/edit?usp=sharing)*
+### *Take a look at my resume! [Resume](https://docs.google.com/document/d/1HOzr1bBkC3nN_z0Mglpie7cdjutdz_zH22lqIPRAX7c/edit?usp=sharing)* ☺
 
 ### Here are my badges!
 **-Languages**  
