@@ -65,10 +65,10 @@
  
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cross23&theme=tokyonight&show_icons=true)](https://github.com/matt-cross23/github-readme-stats)
 
-<a href="https://github.com/matt-cross23/github-readme-stats">
+<a href="https://github.com/matt-cross23/github-readme-stats&theme=tokyonight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=E-Commerce-Backend" />
 </a>
-<a href="https://github.com/matt-cross23/Tech-Blog">
+<a href="https://github.com/matt-cross23/Tech-Blog&theme=tokyonight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=Team-Profile-Generator" />
 </a>
        
