@@ -1,7 +1,5 @@
 # 👋 Hi, my name is Matthew Cross!
 
-![counter](https://enyvrulwi7s4ubg.m.pipedream.net)
-
 ## I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, Economics (PPE) in May 2020. 🎓
 
 ## I just graduated as a Full Stack Developer from Penn's LPS Full Stack Bootcamp Program! (Waiting for my certificate)⌛
@@ -74,21 +72,12 @@
 [![Profile Tracker](https://github-readme-stats.vercel.app/api/pin/?username=zaydnubani&repo=Penn-Collab-Project-1&theme=dark)](https://github.com/matt-cross23/Penn-Collab-Project)
 [![Artistify](https://github-readme-stats.vercel.app/api/pin/?username=mikepizzica&repo=artistify&theme=dark)](https://github.com/matt-cross23/artistify)
 
-<!-- <a href="https://github.com/matt-cross23/github-readme-stats&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=E-Commerce-Backend" />
-</a>
-<a href="https://github.com/matt-cross23/Tech-Blog&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=Team-Profile-Generator" />
-</a> -->
-       
-
-
-
 
 - 👀 I’m interested in server backend development and UI/UX design
 - 🌱 I’m currently learning Python and TypeScript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me email: matthewcross1017@gmail.com 
 
+![counter](https://enyvrulwi7s4ubg.m.pipedream.net)
 
 
