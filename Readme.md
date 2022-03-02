@@ -70,9 +70,9 @@
 
 ##### Projects I've contributed to!
 
-[![Tech Blog](https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=Find-Your-Wine&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Tech Blog](https://github-readme-stats.vercel.app/api/pin/?username=zaydnubani&repo=Penn-Collab-Project-1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Tech Blog](https://github-readme-stats.vercel.app/api/pin/?username=mikepizzica23&repo=artistify&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Find Your Wine](https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=Find-Your-Wine&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile Tracker](https://github-readme-stats.vercel.app/api/pin/?username=zaydnubani&repo=Penn-Collab-Project-1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Artistify](https://github-readme-stats.vercel.app/api/pin/?username=mikepizzica&repo=artistify&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a href="https://github.com/matt-cross23/github-readme-stats&theme=tokyonight">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=E-Commerce-Backend" />
