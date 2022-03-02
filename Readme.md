@@ -1,7 +1,10 @@
 # 👋 Hi, my name is Matthew Cross! 
-## I am recent graduate of a Bachelor's Degree for Philosophy, Politics, Economics (PPE) at the University of Pennsylvania. 🎓
 
-## At the end of Febuary I'll be certified as Full Stack Developer from Penn's LPS Full Stack Bootcamp Program! ☺ *Take a look at my resume! [Resume](https://docs.google.com/document/d/1HOzr1bBkC3nN_z0Mglpie7cdjutdz_zH22lqIPRAX7c/edit?usp=sharing)*
+## I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, Economics (PPE) in May 2020. 🎓
+
+## I just graduated as a Full Stack Developer from Penn's LPS Full Stack Bootcamp Program! (Waiting for my certificate)⌛
+
+###☺ *Take a look at my resume! [Resume](https://docs.google.com/document/d/1HOzr1bBkC3nN_z0Mglpie7cdjutdz_zH22lqIPRAX7c/edit?usp=sharing)*
 
 ### Here are my badges!
 **-Languages**  
@@ -60,7 +63,7 @@
 
 #### Here are my Github Stats!
  
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api/?username=matt-cross23&theme=shades-of-purple&show_icons=true)](https://github.com/matt_cross23/github-readme-stats)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api/?username=matt-cross23&theme=shades-of-purple&show_icons=true)(https://github.com/matt_cross23/github-readme-stats)
 
 <a href="https://github.com/matt-cross23/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=E-Commerce-Backend" />
