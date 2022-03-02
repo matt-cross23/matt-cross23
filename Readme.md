@@ -2,7 +2,7 @@
 
 ## I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, Economics (PPE) in May 2020. 🎓
 
-## I just graduated as a Full Stack Developer from Penn's LPS Full Stack Bootcamp Program! +(Waiting for my certificate)⌛
+## I just graduated as a Full Stack Developer from Penn's LPS Full Stack Bootcamp Program! (Waiting for my certificate)⌛
 
 ### *Take a look at my resume! [Resume](https://docs.google.com/document/d/1HOzr1bBkC3nN_z0Mglpie7cdjutdz_zH22lqIPRAX7c/edit?usp=sharing)* ☺
 
