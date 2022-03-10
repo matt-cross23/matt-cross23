@@ -5,29 +5,26 @@
 ## I just completed Penn's LPS Full Stack Bootcamp and am certified as a Full Stack Developer! (Waiting for my certificate)⌛
 
 ### [*Take a look at my resume*](https://docs.google.com/document/d/1HOzr1bBkC3nN_z0Mglpie7cdjutdz_zH22lqIPRAX7c/edit?usp=sharing) ☺
+---
 
 ### Here are my badges!
-**-Languages**  
 
+**-Languages**  
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)  
 
 **-Deployment**  
-
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
 
 **-NOSQL**  
-
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 **-SQL**  
-
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
 **-Frameworks**  
-
 ![image](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -38,11 +35,9 @@
 ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
 
  **-Communication**  
- 
 ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
 
- **-Text Editor**  
- 
+ **-Code Editor**  
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 
 #### Since graduation I've worked for the First Judicial District of Pennsylvania (Philadelphia County) as a legal clerk for the Office of Court Compliance 🏛️, helping people with outstanding court costs and fines get on a payment plan so they can recieve SNAP benefits. 
@@ -52,8 +47,6 @@
 
 *I was also just certified for JNET acessibility, JNET is a collaborative effort of municipal, county, state, bordering states, and federal justice agencies that developed and provide an online, secure, integrated justice system that provides participating agencies with access to justice information within Pennsylvania*
 [jnet certification.pdf](https://github.com/matt-cross23/matt-cross23/files/8090457/jnet.overview.pdf)
-
-
 
 ---
 
