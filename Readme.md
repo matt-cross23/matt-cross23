@@ -72,6 +72,7 @@
 [![Profile Tracker](https://github-readme-stats.vercel.app/api/pin/?username=zaydnubani&repo=Penn-Collab-Project-1&theme=dark)](https://github.com/zaydnubani/Penn-Collab-Project-1)
 [![Artistify](https://github-readme-stats.vercel.app/api/pin/?username=mikepizzica&repo=artistify&theme=dark)](https://github.com/mikepizzica/artistify)
 
+---
 
 - 👀 I’m interested in server backend development and UI/UX design
 - 🌱 I’m currently learning Python and TypeScript
