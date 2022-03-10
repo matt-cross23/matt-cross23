@@ -1,4 +1,4 @@
-<p align="center"> #👋 Hi, my name is Matthew Cross! </p>
+<p align="center"> <h1>👋 Hi, my name is Matthew Cross!</h1> </p>
 
 ## I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, & Economics (PPE) in May 2020. 🎓
 
