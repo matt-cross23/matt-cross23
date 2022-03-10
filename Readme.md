@@ -5,7 +5,6 @@
 ## I just completed Penn's LPS Full Stack Bootcamp and am certified as a Full Stack Developer! (Waiting for my certificate)⌛
 
 ### [*Take a look at my resume*](https://docs.google.com/document/d/1HOzr1bBkC3nN_z0Mglpie7cdjutdz_zH22lqIPRAX7c/edit?usp=sharing) ☺
----
 
 ### Here are my badges!
 
