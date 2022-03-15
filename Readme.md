@@ -49,7 +49,7 @@
 
 ---
 
-###**User Story**
+### **User Story**
 
 #### In August 2021, I decided to make a career change so I enrolled in Penn's LPS Full Stack Bootcamp. 👨‍💻
 
