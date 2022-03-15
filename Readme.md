@@ -8,7 +8,6 @@
 
 ### Here are my badges!
 
-<p align="center">
 **-Languages**  
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +38,7 @@
 
  **-Code Editor**  
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
- </p>
+
  
 #### Since graduation I've worked for the First Judicial District of Pennsylvania (Philadelphia County) as a legal clerk for the Office of Court Compliance 🏛️, helping people with outstanding court costs and fines get on a payment plan so they can recieve SNAP benefits. 
 
