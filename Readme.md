@@ -49,9 +49,18 @@
 
 ---
 
+###**User Story**
+
 #### In August 2021, I decided to make a career change so I enrolled in Penn's LPS Full Stack Bootcamp. 👨‍💻
 
-#### Since then, I've learned significally about Frontend and Backend development, plus MYSQL and NOSQL database management/query. Now I'm able to create Full Stack applications using frameworks/tools such as React, Express, OOP, MVC, ORM, Mongoose, Sequelize, and MERN stack.   
+#### I knew it would be challenging, but I wasn't expecting the need to push myself much harder than in other academic settings. Also, finding the confidence to become a developer was an obstacles, I had troubles asking for help and believing that my code would actually work. 
+
+#### Despite this, with the help of Penn's LPS support team and my own perserverance, I found myself evolving into developer who is excited to take on new challenges as it serves as an opportunity to learn and become better. This growth mindset has become an invaluable skill for me, it's allowed me properly access the problem at hand and calmly analyze the situation to give the best answer.     
+
+#### Now looking back as a graduate, I've learned significally about Frontend and Backend development, plus MYSQL and NOSQL database management/query. Now I'm able to create Full Stack applications using frameworks/tools such as React, Express, OOP, MVC, ORM, Mongoose, Sequelize, and MERN stack. Talk about development!!
+
+
+---
 
 #### Here are my Github Stats!
  
