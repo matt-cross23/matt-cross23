@@ -58,7 +58,7 @@ I knew it would be challenging, but I wasn't expecting the need to push myself h
 #### Despite this, with the help of Penn's LPS support team and my own perseverance, I found myself evolving into a developer who is excited to take on new challenges as it serves as an opportunity to learn and become better. This growth mindset has become an invaluable skill for me, it's allowed me properly access the problem at hand and calmly analyze the situation to give the best answer, which greatly applies to the workplace.
 
 
-##### Now looking back as a graduate, I've learned significantly about Frontend and Backend development, plus MYSQL and NoSQL database management/query. Now I'm able to create Full Stack applications using frameworks/tools such as React, Express, OOP, MVC, ORM, Mongoose, Sequelize, and MERN stack. Talk about development!!
+#### Now looking back as a graduate, I've learned significantly about Frontend and Backend development, plus MYSQL and NoSQL database management/query. Now I'm able to create Full Stack applications using frameworks/tools such as React, Express, OOP, MVC, ORM, Mongoose, Sequelize, and MERN stack. Talk about development!!
 Currently, I have been keeping up on my skills and growth mindset by learning server-side scripting with Python and creating my own version of Frogger. 
 ---
 
