@@ -61,7 +61,7 @@
 
 #### Now looking back as a graduate, I've learned significantly about Frontend and Backend development, plus MYSQL and NoSQL database management/query. Now I'm able to create Full Stack applications using frameworks/tools such as React, Express, OOP, MVC, ORM, Mongoose, Sequelize, and MERN stack. Talk about development!!
 
-####Currently, I have been keeping up on my skills and growth mindset by learning server-side scripting with Python and creating my own version of Frogger. 
+#### Currently, I have been keeping up on my skills and growth mindset by learning server-side scripting with Python and creating my own version of Frogger. 
 ---
 
 #### Here are my Github Stats!
