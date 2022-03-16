@@ -54,7 +54,7 @@
 
 #### In August 2021, I decided to make a career change so I enrolled in Penn's LPS Full-Stack Bootcamp. 👨‍💻
 
-####I knew it would be challenging, but I wasn't expecting the need to push myself harder than in other academic settings. Also, finding the confidence to become a developer was an obstacle, I had trouble asking for help and believing that my code would actually work.
+#### I knew it would be challenging, but I wasn't expecting the need to push myself harder than in other academic settings. Also, finding the confidence to become a developer was an obstacle, I had trouble asking for help and believing that my code would actually work.
 
 #### Despite this, with the help of Penn's LPS support team and my own perseverance, I found myself evolving into a developer who is excited to take on new challenges as it serves as an opportunity to learn and become better. This growth mindset has become an invaluable skill for me, it's allowed me properly access the problem at hand and calmly analyze the situation to give the best answer, which greatly applies to the workplace.
 
