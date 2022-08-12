@@ -4,7 +4,7 @@
 
 ## I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, & Economics (PPE) in May 2020. 🎓
 
-### [*Take a look at my resume*](Web Dev Resume 08_03_22.pdf](https://github.com/matt-cross23/matt-cross23/files/9313485/Web.Dev.Resume.08_03_22.pdf) ☺
+### ![*Take a look at my resume*]([Web Dev Resume 08_03_22.pdf](https://github.com/matt-cross23/matt-cross23/files/9313485/Web.Dev.Resume.08_03_22.pdf) ☺
 
 ### Here are my badges!
 
