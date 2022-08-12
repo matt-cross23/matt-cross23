@@ -1,10 +1,10 @@
 <p align="center"> <h1>👋 Hi, my name is Matthew Cross!</h1> </p>
 
-## I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, & Economics (PPE) in May 2020. 🎓
-
 ## I just completed Penn's LPS Full Stack Bootcamp and certified as a Full Stack Developer! (Waiting for my certificate)⌛
 
-### [*Take a look at my resume*](https://docs.google.com/document/d/1HOzr1bBkC3nN_z0Mglpie7cdjutdz_zH22lqIPRAX7c/edit?usp=sharing) ☺
+## I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, & Economics (PPE) in May 2020. 🎓
+
+### [*Take a look at my resume*](https://docs.google.com/document/d/1daXL9CfuE2aF7SR1yp3yMF3-eDUi1zU9A_9uO-B7WT4/edit?usp=sharing) ☺
 
 ### Here are my badges!
 
