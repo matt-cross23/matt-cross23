@@ -1,13 +1,8 @@
 <p align="center"> <h1>👋 Hi, my name is Matthew Cross!</h1> </p>
 
-## I just completed Penn's LPS Full Stack Bootcamp and certified as a Full Stack Developer! (Waiting for my certificate)⌛
-
-## I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, & Economics (PPE) in May 2020. 🎓
+## I just completed Penn's LPS Full Stack Bootcamp and certified as a Full Stack Developer! (Waiting for my certificate)⌛ & I graduated from the University of Pennsylvania with a Bachelor's Degree in Philosophy, Politics, & Economics (PPE) in May 2020. 🎓
 
 ### [*Take a look at my resume*](https://github.com/matt-cross23/matt-cross23/files/9313485/Web.Dev.Resume.08_03_22.pdf) ☺
-
-### Here are my badges!
-
 
 ### **User Story**
 
