@@ -15,35 +15,9 @@
 
 #### Currently, I have been keeping up on my skills and growth mindset by learning server-side scripting with Python and creating my own version of Frogger. 
 ---
-
 #### Here are my Github Stats!
- 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt-cross23&theme=tokyonight&show_icons=true)](https://github.com/matt-cross23/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt-cross23&hide=html&theme=tokyonight)](https://github.com/matt-cross23/github-readme-stats)
-
-##### Projects I've contributed to!
-
-[![Find Your Wine](https://github-readme-stats.vercel.app/api/pin/?username=matt-cross23&repo=Find-Your-Wine&theme=dark)](https://github.com/matt-cross23/Find-Your-Wine)
-[![Profile Tracker](https://github-readme-stats.vercel.app/api/pin/?username=zaydnubani&repo=Penn-Collab-Project-1&theme=dark)](https://github.com/zaydnubani/Penn-Collab-Project-1)
-[![Artistify](https://github-readme-stats.vercel.app/api/pin/?username=mikepizzica&repo=artistify&theme=dark)](https://github.com/mikepizzica/artistify)
-
 ---
-**-Languages**  
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)  
-**-Deployment**  
-![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
-**-NOSQL**  
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-**-SQL**  
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-**-Frameworks**  
-![image](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
-
- **-Communication**  
-![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
-
- **-Code Editor**  
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
  
 - 👀 I’m interested in server backend development and UI/UX design
 - 🌱 I’m currently learning Python and TypeScript
