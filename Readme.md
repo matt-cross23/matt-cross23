@@ -9,10 +9,7 @@
 ### Here are my badges!
 
 **-Languages**  
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)  
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)  
 
 **-Deployment**  
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
@@ -38,17 +35,6 @@
 
  **-Code Editor**  
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
-
- 
-#### Since graduation I've worked for the First Judicial District of Pennsylvania (Philadelphia County) as a legal clerk for the Office of Court Compliance 🏛️, helping people with outstanding court costs and fines get on a payment plan so they can recieve SNAP benefits. 
-
-*I am certified as a 200 level excel user by Microsoft:* 
-[Excel L200 1.12 attend cert_Part27.pdf](https://github.com/matt-cross23/matt-cross23/files/8004163/Excel.L200.1.12.attend.cert_Part27.pdf)
-
-*I was also just certified for JNET acessibility, JNET is a collaborative effort of municipal, county, state, bordering states, and federal justice agencies that developed and provide an online, secure, integrated justice system that provides participating agencies with access to justice information within Pennsylvania*
-[jnet certification.pdf](https://github.com/matt-cross23/matt-cross23/files/8090457/jnet.overview.pdf)
-
----
 
 ### **User Story**
 
